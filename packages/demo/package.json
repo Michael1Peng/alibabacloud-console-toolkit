@@ -1,0 +1,23 @@
+{
+  "name": "@alicloud/console-toolkit-demo",
+  "version": "0.1.0",
+  "description": "Demo package for testing console-toolkit-core Service initialization",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "npm run start"
+  },
+  "dependencies": {
+    "@alicloud/console-toolkit-core": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.0"
+  },
+  "keywords": [
+    "alicloud",
+    "console-toolkit",
+    "demo"
+  ],
+  "author": "Alibaba Cloud",
+  "license": "MIT"
+}

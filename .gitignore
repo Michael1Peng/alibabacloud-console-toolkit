@@ -33,6 +33,7 @@ build/Release
 lib
 dist
 !packages/babel-plugin-wind-rc/lib/
+output/
 
 # TypeScript v1 declaration files
 typings/
